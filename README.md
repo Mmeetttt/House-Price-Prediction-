@@ -31,3 +31,14 @@ The dataset includes features such as:
 - Model training using algorithms like Linear Regression and Random Forest
 - Performance evaluation (R² Score, MSE, RMSE)
 - Price prediction based on user inputs
+
+## Output 
+![image](https://github.com/user-attachments/assets/ec221e6a-3b7f-41ff-98c6-fb9f1ee3bbb2)
+![image](https://github.com/user-attachments/assets/b37e3aaa-35d0-4506-9f2c-2246c59a993c)
+![image](https://github.com/user-attachments/assets/926f58f4-58cf-444f-8289-e689d6f887cc)
+
+
+
+
+
+
