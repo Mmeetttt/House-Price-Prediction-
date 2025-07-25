@@ -1,6 +1,10 @@
-# 🏠 House Price Prediction
-
+🏡 India House Price Prediction App
+📊 Overview
 This project predicts house prices using machine learning models trained on housing data. It includes data preprocessing, visualization, model training, and evaluation using Python and Jupyter Notebook.
+
+This Streamlit web application allows users to predict house prices in India based on several key features. Leveraging a pre-trained machine learning model, this app provides an intuitive interface for inputting house characteristics and instantly receiving a price prediction.
+
+Developed by Meet Patel (E041).
 
 ## 🔧 Tech Stack
 
@@ -24,13 +28,33 @@ The dataset includes features such as:
 
 *Note: Dataset source - [Add link or mention if local]*
 
-## 📊 Features
+✨ Features
+Interactive Input Fields: Easily adjust parameters like number of bedrooms, bathrooms, living area, and more.
 
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Model training using algorithms like Linear Regression and Random Forest
-- Performance evaluation (R² Score, MSE, RMSE)
-- Price prediction based on user inputs
+Machine Learning Powered: Utilizes a Random Forest Regressor model for accurate price predictions.
+
+Feature Importance Visualization: Understand which features contribute most to the price prediction.
+
+Model & Dataset Information: Provides details about the model used, its performance (RMSE), and the source of the training data.
+
+User-Friendly Interface: Built with Streamlit for a clean and responsive user experience.
+
+Data cleaning and preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Model training using algorithms like Linear Regression and Random Forest
+
+Performance evaluation (R² Score, MSE, RMSE)
+
+Price prediction based on user inputs
+
+
+🚀 Try the App Live!
+Experience the India House Price Prediction App yourself.
+Click on the link below to access the deployed application:
+
+👉 Launch the House Price Prediction App
 
 ## Output 
 ![image](https://github.com/user-attachments/assets/ec221e6a-3b7f-41ff-98c6-fb9f1ee3bbb2)
