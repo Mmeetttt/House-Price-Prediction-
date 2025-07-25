@@ -54,7 +54,7 @@ Price prediction based on user inputs
 Experience the India House Price Prediction App yourself.
 Click on the link below to access the deployed application:
 
-👉 Launch the House Price Prediction App
+👉 Launch the House Price Prediction App-https://ijwqkzj4s4bk2zv5awjusp.streamlit.app/
 
 ## Output 
 ![image](https://github.com/user-attachments/assets/ec221e6a-3b7f-41ff-98c6-fb9f1ee3bbb2)
